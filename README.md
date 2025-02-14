@@ -1,4 +1,4 @@
-# <p align="center">Hi, I'm <a href="https://github.com/IvanMarin174">Ivan Marin<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></p>
+#  <p align="center">😎 Hi, I'm <a href="https://github.com/IvanMarin174">Ivan Marin<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></p>
 
   <p align="center">
 <a href="mailto:mariocolorado174@gmail.com" target="_blank">
@@ -29,4 +29,14 @@
   <li>🚀 Curiosity about... computer networks and machine learning.</li>
   <li>🌠 Passion for astronomy.</li>
 </ul>
+&emsp;
+
+## 🛠️ My Skills
+
+### Programming languages:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,cs,java,py)](https://skillicons.dev)
+&emsp;
+### Misc tools & Frameworks:
+[![My Skills](https://skillicons.dev/icons?i=postman,git,github,laravel,react,redux,vite,)](https://skillicons.dev)
+&emsp;
 
