@@ -33,10 +33,23 @@
 
 ## 🛠️ My Skills
 
-### Programming languages:
+### ⭐Programming languages:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,cs,java,py)](https://skillicons.dev)
 &emsp;
-### Misc tools & Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=postman,git,github,laravel,react,redux,vite,)](https://skillicons.dev)
+### ⭐Frontend:
+[![My Skills](https://skillicons.dev/icons?i=react,redux,vite)](https://skillicons.dev)
 &emsp;
+### ⭐Backend:
+[![My Skills](https://skillicons.dev/icons?i=laravel,dotnet)](https://skillicons.dev)
+&emsp;
+### ⭐Misc tools:
+[![My Skills](https://skillicons.dev/icons?i=postman,git,github)](https://skillicons.dev)
+&emsp;
+<br>
+<br>
+<p align="center">
+  <i>Credits: <a href = "https://github.com/IvanMarin174">Ivan Marin</a></i>
+  <br/>
+  <i>Last Edited on: 18/002/2025</i>
+</p>
 
